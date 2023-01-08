@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+            "username": "Daniel Goshev",
+            "position": "Software Developer",
+            "post": "some text",
+            "fullText": "lorem 50",
+            "likes": 4
+        },
+        {
+            "username": "Daniel Goshev",
+            "position": "Software Developer",
+            "post": "some text",
+            "fullText": "lorem 50",
+            "likes": 5
+        },
+        {
+            "username": "Daniel Goshev",
+            "position": "Software Developer",
+            "post": "some text",
+            "fullText": "lorem 50",
+            "likes": 7
+        },
+        {
+            "username": "Daniel Goshev",
+            "position": "Software Developer",
+            "post": "some text",
+            "fullText": "lorem 50",
+            "likes": 10
+        },
+        {
+            "username": "Daniel Goshev",
+            "position": "Software Developer",
+            "post": "some text",
+            "fullText": "lorem 50",
+            "likes": 12
+        }
+    ]
+}
